@@ -5,10 +5,7 @@
   "functions": {
     "app.py": {
       "maxDuration": 60,
-      "includeFiles": [
-        "apps/web/dist/**",
-        "apps/api/src/sentinel/data/config/**"
-      ]
+      "includeFiles": "apps/**"
     }
   }
 }
